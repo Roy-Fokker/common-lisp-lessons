@@ -7,4 +7,4 @@
                 :components
                 ((:file "main"))))
   :description ""
-  :in-order-to ((test-op (test-op "coin-toss/tests"))))
+  )
